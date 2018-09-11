@@ -1,1 +1,1 @@
-# autocratic-regimes
+# autocracies-lecture
