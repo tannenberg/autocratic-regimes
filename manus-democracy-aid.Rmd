@@ -1,0 +1,12 @@
+---
+title: "Manus"
+subtitle: "Hur påverkar internationellt bistånd demokratisering?"
+author: "Marcus Tannenberg"
+output: html
+
+---
+
+
+## Demokratibistånd i praktiken
+
+Finkel et al 2007 p 410

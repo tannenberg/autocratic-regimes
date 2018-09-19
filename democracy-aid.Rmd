@@ -1,0 +1,368 @@
+---
+title: "Bistånd och demokrati"
+subtitle: "Hur påverkar internationellt bistånd demokratisering?"
+author: "Marcus Tannenberg"
+date: "2018-09-12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+## Upplägg
+
+### Vad vill vi veta om auktoritära regimer?
+
+- **Del 1** Vad är demokratibistånd?
+- *15 min paus*
+
+- **Del 2** Fungerar demokratibistånd?
+
+- **Del 3** Bistånd från auktoritära regimer
+
+--
+
+**Frågor är varmt välkomna!**
+---
+
+## Var passar bistånd in i kursen? 
+
+
+### Variabler som potentiellt påverkar demokratisering:
+
+ |Domestic|International
+---|---|---
+**Macro**|Economic development|Economic dependence
+ |Class structure| Free trade
+ |Social cleavages|Colonial legacies
+ |Economic Performance|Overseas Development Assistance
+---|---|---
+**Micro**|Elite pacts|Diffusion of norms
+ |Individual values|Pressure from IOs
+ |Institutional incentives|**Democracy assistance**
+
+---
+
+## Vad är demokratibistånd?
+
+Tre huvudsakliga delområden:
+- Val och politiska partier (contestation)
+
+
+- Reformera statliga institutioner (horisontellt ansvarsutkrävande)
+
+- Civilsamhällsstöd (vertikalt ansvarsutkrävande)
+
+--
+
+Mål: "to foster and advance democratization"
+
+--
+
+Kom ihåg: Vad som räknas som demokratibistånd beror på hur man definierar demokrati samt på antaganden om vad som verkligen främjar demokrati.
+
+---
+
+## Demokratibistånd över tid
+![](input/democracy-aid-trend.png)
+
+---
+
+## Demokratibistånd över tid
+
+![](input/democracy-aid-trend2.png)
+
+---
+
+## Vilka typer av länder får demokratibistånd? 
+
+![](input/row_2017.png)
+
+---
+
+## Vilka typer av länder får demokratibistånd?
+
+![](input/oecd-aid-row.png)
+
+---
+
+## Trender och utmaningar (Carothers 2015)
+
+Trender:
+
+- Mer bottom-up projekt
+- Kontextuellt bistånd
+- Civilsamhällsorganisationer
+
+--
+
+Utmaningar:
+
+- Stärka auktoritära institutioner (ledare)
+- Motsättningar i biståndsstrategier (bottom up vs. top down)
+- "The taming of democracy assistance" (Sarah Bush)
+
+--
+
+Sweden remains alone among major donor countries in embracing Amrtya Sen's notion of "Development as Freedom"
+
+---
+
+## Kompisövning 1
+
+### Vilka länder har fått mest demokratibistånd de senaste 10 åren?  
+
+---
+
+## Allokering av demokratibistånd 2008-18
+![](input/oecd-world.png)
+
+---
+
+## Allokering av demokratibistånd 2008-18
+
+![](input/china-world-log.png)
+
+---
+
+## Utsikterna för demokratibistånd 1990
+
+- Utökning av demokratier
+- Öppna dörrar efter kalla kriget
+- Avsaknad av ideologiska rivaler  
+
+--
+
+### Men sedan 2000...
+
+- Demokratisk stagnation (backsliding i Afghanistan, Iraq, Mali, etc)
+- Stängda dörrar
+  - Förbud mot utländska bistånd till civilsamhälles organisationer (Ryssland, Ungern)
+- Alternativa modeller: Kina, Etiopien, Ryssland
+
+--
+
+- Trumps "America First Policy"
+
+--
+
+Kan inte längre anta att demokrati är önskvärt.
+
+---
+
+## Kan slå bakut - ex valobservatörer
+
+Observation på valdagen:
+
+- Missar valkampanjen
+- Förutsättningarna för ett fritt och rättvist val
+
+Utmaningar:
+
+- Legitimerar auktoritära val
+  - Internationellt
+  - På hemmaplan
+
+--
+
+- Autocratic evolution (ex. Cambodia)
+
+---
+
+## Kompisövning 2
+
+### Bör vi ge demokratibistånd till andra länder?
+
+---
+
+## Kompisövning 2 - eventuella invändningar:
+
+- Rätten till självbestämmande och suveränitet: bör länder själva få välja om de vill ha demokrati/demokratibistånd?
+
+- Riskerar att vara etno-centriskt: Västländer exporterar modeller som inte passar alla?
+
+- Drivs i själva verket av egenintresse?
+
+- Om opinionen i givarländer inte vill ge bistånd bör inte skattepengar användas till detta?
+
+---
+
+## Del 2: Fungerar demokratibistånd?
+
+### Finkel, Perez-Linan and Seligson (2007)
+- Tidsperiod 1990-2003
+- Från 128 to 813 millioner USD 
+- 165 länder
+- Sepparera demokratibistånd från övrigt bistånd
+- Bara USAIDs demokratibistånd
+
+Resultat: “investment of one million dollar (…) would foster an increase of democracy 65 percent greater than the change expected for the average country in the sample”
+
+---
+
+## Finkel et. al. (2018)
+- Uppdatering med V-Dem data
+
+- Tidsperiod 2001-2014
+
+- [Länk](läggtilllänkhär)
+
+---
+
+## Svårigheter med att veta om demokratibistånd har någon inverkan:
+
+- 
+-
+-
+
+---
+
+# Del 3 Auktoritärt bistånd
+
+---
+
+## Autokrati-bistånd?
+
+"Nya" biståndsgivare:
+- Kina
+- Ryssland
+- Iran
+- UAE
+- Saudiarabien
+- Venezuela (inte senaste åren)
+- Qatar
+- Rwanda
+- Etiopien
+
+--
+
+Inte autokrati-bistånd, men inte heller demokratiskt
+
+---
+
+# Kompisövning 3
+
+## Hur kan auktoritärt bistånd motverka demokrati?
+
+---
+
+## Potentiella mekanismer 
+
+Hur kan auktoritärt bistånd underminera demokratisering?
+- Förhandlingsutrymme - Conditionality? "Tack, men nej tack!"
+
+--
+
+- Authoritarian learning - delar med sig av kunskap/kontroll
+
+--
+
+- Hearts and minds - opinionsskifte
+
+--
+
+- Ökad korruption - hinder för demokrati?
+
+---
+# Vem får auktoritärt bistånd? 
+---
+
+![](input/china-africa.png)
+
+---
+
+![](input/china-africa-log.png)
+
+---
+## Vem får auktoritärt bistånd?
+
+![](input/china-world-log.png)
+
+---
+
+## Kinas bistånd till olika regimtyper över tid
+
+![](input/china-aid-row.png)
+
+---
+
+## Vem får auktoritärt bistånd?
+
+![](input/gwf_map_2010.png)
+
+---
+
+## Kinas bistånd till olika regimtyper över tid - Party!
+
+![](input/china-aid-gwf.png)
+
+---
+
+## Does conditionality still work? - Li (2017)
+
+![](input/xiaojunli.png)
+
+---
+
+## Korruption - Dreher et al. (2016)
+
+![](input/china-aid-demand.png)
+
+---
+
+## Korruption - Dreher et al. (2016)
+
+![](input/china-aid-demand2.png)
+
+---
+
+## A Battle for Hearts and Minds?
+
+- Auktoritära biståndsprojekt borde bara ha en inverkan om du kommer i kontakt med dem, tex besöker ett sjukhus
+
+--
+
+- Det är mer troligt om du bor nära ett projekt
+
+--
+
+- Givet att folk gillar sjukhus, skolor etc –> positiva attityder
+
+--
+
+- Kinas utvecklingsmodell bra -> Kinesiskt bistånd vara associerat med lägre stöd för demokrati
+
+---
+
+## A Battle for Hearts and Minds?
+
+![](input/map.png)
+
+---
+
+## Biståndsdata
+Svenskt bistånd:
+
+- [OpenAid.se](https://openaid.se/aid/2017/)
+
+OECD:
+
+- [OECD Statistics](https://stats.oecd.org/)
+
+Auktoritärt bistånd:
+
+- [Aid Data](https://www.aiddata.org/)
+
+---
+
+## Litteratur 
+- Carothers, Thomas. "Democracy aid at 25: Time to choose." Journal of Democracy 26.1 (2015): 59-73.
+- Finkel, Steven E., Aníbal Pérez-Liñán, and Mitchell A. Seligson. "The effects of US foreign assistance on democracy building, 1990–2003." World Politics 59.3 (2007): 404-439.
+- Li, Xiaojun. "Does Conditionality Still Work? China’s Development Assistance and Democracy in Africa." Chinese Political Science Review 2.2 (2017): 201-220.
+
+Extra:
+- Hernandez, Diego. "Are “New” Donors Challenging World Bank Conditionality?." World Development 96 (2017): 529-549.
+- Dreher, Axel, et al. "Aid on demand: African leaders and the geography of China's foreign assistance." (2016).
