@@ -5,11 +5,26 @@ author: "Marcus Tannenberg"
 date: "2018-09-06 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    #css: ["default", "css/xaringan-themer.css", "css/footer_plus.css"]
     lib_dir: libs
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      #ratio: "16:9"
+    seal: false
+
+---
+
+
+class: center, middle
+
+
+
+# Auktoritära regimer
+
+.large[**Marcus Tannenberg**| SK1214 | `r Sys.Date()`]
+
 ---
 
 ## Upplägg
@@ -143,11 +158,11 @@ När vi talar om **typer** av o-demokratiska regimer är det en distinktion av *
 
 Vilken typ av auktoritär regim är mest respektive minst stabil? Och varför?
 
-* House of Al Said i Oman har styrt i **275 år** (1744-idag)
+* House of Al Said i Oman har styrt i **276 år** (1744-idag)
 
 * Längst sittande diktator är Fidel Castro **52 år** (1959-2011)
 
-* Utmanare - Kameruns Paul Biya med **42 år** and counting...
+* Utmanare - Kameruns Paul Biya med **43 år** and counting...
 
 ![](input/dictators.png)
 
@@ -201,7 +216,7 @@ Exempel: Kina, Kuba, Vietnam, Eritrea, Singapore
 En person som kontrollerar allt. Kommer till makten via ett parti eller militären men samlar all politisk makt och försvagar/eliminerar utmanare. 
 
 * Karisma, personkult
-* Oklara regler för succession -> instabilitet
+* Oklara regler för succession (för att undvika utmanare) -> instabilitet
 
 Exempel: Zimbabwe under Mugabe, Kina under Mao, Irak under Saddam, Uganda under Idi Amim
 
@@ -396,23 +411,6 @@ Exempel: Saudiarabien, Kina, Qatar, Eritrea
 
 ---
 
-## En till regim-indelning
-
-Förekomsten av manipulation ger en ytterligare indelning av regimer. Demokratier är endast de som uppfyller grundläggande demokratiska normer. Om minst en av dessa normer överträds, är regimen inte längre demokratisk.  
-
-- Liberal Democracy - allt gott
-- Electoral Democracy - uppfyller grundläggande principer men begränsat civilsamhälle och/eller avsaknad av kontroll av den exekutiva makten
-- Competetive Autocracy - flerpartival men ojämna spelregler
-- Hegemonic Autocracy - flerpartival men mycket ojämna spelregler
-- Closed Autocracy - inga flerpartival
-
----
-
-## Hur går det i valen? 
-![](input/electurn.png)
-
----
-
 ## Auktoritära regimer - upplägg
 
 - Del 1 Vad finns det för olika former och typer av auktoritära regimer?
@@ -473,6 +471,10 @@ En (någorlunda) fri media kan hjälpa:
 
 Detta leder till en balansgång mellan säkerhet och effektivitet. Men om regimen är under hot, alternativ är överöst med naturresurser är hård censur att föredra. 
 
+## Repress or not repress: China and the coronavirus
+
+
+
 ---
 
 ## Vad har vi lärt oss idag?
@@ -505,7 +507,7 @@ class: center, middle
 
 # Tack!
 
-[marcus.tannenberg@gmail.com](marcus.tannenberg@gmail.com)
+[marcus.tannenberg@gu.se](marcus.tannenberg@gu.se)
 
 
 

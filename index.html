@@ -1,22 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
   <head>
     <title>Auktoritära regimer</title>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta name="author" content="Marcus Tannenberg" />
     <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
     <link href="libs/remark-css-0.0.1/default-fonts.css" rel="stylesheet" />
   </head>
   <body>
     <textarea id="source">
-class: center, middle, inverse, title-slide
+
+
+
+class: center, middle
+
+
 
 # Auktoritära regimer
-### Marcus Tannenberg
-### 2018-09-06 (updated: 2018-09-11)
+
+.large[**Marcus Tannenberg**| SK1214 | 2020-09-07]
 
 ---
-
 
 ## Upplägg
 
@@ -149,11 +153,11 @@ När vi talar om **typer** av o-demokratiska regimer är det en distinktion av *
 
 Vilken typ av auktoritär regim är mest respektive minst stabil? Och varför?
 
-* House of Al Said i Oman har styrt i **275 år** (1744-idag)
+* House of Al Said i Oman har styrt i **276 år** (1744-idag)
 
 * Längst sittande diktator är Fidel Castro **52 år** (1959-2011)
 
-* Utmanare - Kameruns Paul Biya med **42 år** and counting...
+* Utmanare - Kameruns Paul Biya med **43 år** and counting...
 
 ![](input/dictators.png)
 
@@ -207,7 +211,7 @@ Exempel: Kina, Kuba, Vietnam, Eritrea, Singapore
 En person som kontrollerar allt. Kommer till makten via ett parti eller militären men samlar all politisk makt och försvagar/eliminerar utmanare. 
 
 * Karisma, personkult
-* Oklara regler för succession -&gt; instabilitet
+* Oklara regler för succession (för att undvika utmanare) -&gt; instabilitet
 
 Exempel: Zimbabwe under Mugabe, Kina under Mao, Irak under Saddam, Uganda under Idi Amim
 
@@ -402,23 +406,6 @@ Exempel: Saudiarabien, Kina, Qatar, Eritrea
 
 ---
 
-## En till regim-indelning
-
-Förekomsten av manipulation ger en ytterligare indelning av regimer. Demokratier är endast de som uppfyller grundläggande demokratiska normer. Om minst en av dessa normer överträds, är regimen inte längre demokratisk.  
-
-- Liberal Democracy - allt gott
-- Electoral Democracy - uppfyller grundläggande principer men begränsat civilsamhälle och/eller avsaknad av kontroll av den exekutiva makten
-- Competetive Autocracy - flerpartival men ojämna spelregler
-- Hegemonic Autocracy - flerpartival men mycket ojämna spelregler
-- Closed Autocracy - inga flerpartival
-
----
-
-## Hur går det i valen? 
-![](input/electurn.png)
-
----
-
 ## Auktoritära regimer - upplägg
 
 - Del 1 Vad finns det för olika former och typer av auktoritära regimer?
@@ -479,6 +466,10 @@ En (någorlunda) fri media kan hjälpa:
 
 Detta leder till en balansgång mellan säkerhet och effektivitet. Men om regimen är under hot, alternativ är överöst med naturresurser är hård censur att föredra. 
 
+## Repress or not repress: China and the coronavirus
+
+
+
 ---
 
 ## Vad har vi lärt oss idag?
@@ -511,8 +502,9 @@ class: center, middle
 
 # Tack!
 
-[marcus.tannenberg@gmail.com](marcus.tannenberg@gmail.com)
+[marcus.tannenberg@gu.se](marcus.tannenberg@gu.se)
     </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
 <script>var slideshow = remark.create({
 "highlightStyle": "github",
@@ -522,16 +514,57 @@ class: center, middle
 if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
   window.dispatchEvent(new Event('resize'));
 });
-(function() {
-  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
   if (!r) return;
   s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
   d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
 })();</script>
 
 <script>
 (function() {
-  var i, text, code, codes = document.getElementsByTagName('code');
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
   for (i = 0; i < codes.length;) {
     code = codes[i];
     if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
@@ -545,14 +578,15 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     i++;
   }
-})();
+};
+slideshow._releaseMath(document);
 </script>
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
 (function () {
   var script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
   if (location.protocol !== 'file:' && /^https?:/.test(script.src))
     script.src  = script.src.replace(/^https?:/, '');
   document.getElementsByTagName('head')[0].appendChild(script);
